@@ -12,7 +12,7 @@ Hi, I'm Diptarka Sarkar!
 
 - Enthusiastic about solving complex problems, and tackling new challenges.
 
-- Always eager to learn, build, and contribute to impactful solutions.
+- Currently working on to become a Full Stack dev!
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [diptarkasarkar0@gmail.com](mailto:diptarkasarkar0@gmail.com)
